@@ -8,5 +8,5 @@
         About
     </h2>
     <p>
-        Put content here.&nbsp; TEST THE PROJECT</p>
+        Put content here.&nbsp; TEST THE PROJECT-jino</p>
 </asp:Content>
