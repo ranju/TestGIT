@@ -1,0 +1,5 @@
+D:\Projects\TestGIT\TestGIT\bin\TestGIT.dll
+D:\Projects\TestGIT\TestGIT\bin\TestGIT.pdb
+D:\Projects\TestGIT\TestGIT\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\TestGIT\TestGIT\obj\Debug\TestGIT.dll
+D:\Projects\TestGIT\TestGIT\obj\Debug\TestGIT.pdb
